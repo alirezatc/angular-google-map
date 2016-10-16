@@ -1,0 +1,30 @@
+{
+  "name": "WeatherApp",
+  "authors": [
+    "alireza_tc <alireza.tc@gmail.com>"
+  ],
+  "description": "zoover & weeronline",
+  "main": "bower.json",
+  "keywords": [
+    "location;",
+    "weather;"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-google-maps": "^2.3.4",
+    "lodash": "^4.15.0",
+    "angular-simple-logger": "^0.1.7",
+    "angular-material": "^1.1.0"
+  }
+}
