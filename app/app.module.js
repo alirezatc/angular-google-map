@@ -1,6 +1,7 @@
 var weatherApp = angular
     .module('weatherApp', ['uiGmapgoogle-maps', 'ngMaterial'])
-    .directive('hcChart', function () {
+//this directive is only for highchart and can be ommited    
+.directive('hcChart', function () {
         return {
             restrict: 'E',
             template: '<div></div>',
