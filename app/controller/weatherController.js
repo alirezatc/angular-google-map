@@ -72,7 +72,8 @@ weatherApp
         $scope.windowOptions = {
             visible: false
         };
-
+        
+        //first value of the object map must be initiated
         $scope.map = {
             control: {},
             center: {
