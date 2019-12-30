@@ -1,5 +1,5 @@
 # angular-google-map
-The project illustrates weather condition in different cities on five days in row on google map. balloons are filtered by weather condition. also they can be filtered by day and city name.
+This project illustrates weather condition and precipitation in different cities of the Netherlands in five days in a row on google map. There are three different filters such as weather condition, day time, and city name.
 
 This project has used angular material as UI framework
 
